@@ -1,6 +1,9 @@
 # 💼 Personal Portfolio – React + Tailwind CSS
 
-A **modern, responsive, and interactive developer portfolio** built with **React** and **Tailwind CSS**, featuring an integrated **AI-powered chatbot** to engage users and provide information about my skills, projects, and contact details.
+This is my **old personal portfolio**, built using **React** and **Tailwind CSS**. It showcases my projects, skills, experience, and includes an **AI-powered chatbot** for interaction.
+
+> 👉 If you'd like to see my **latest, upgraded portfolio**, [click here](https://ravigupta-portfolio.netlify.app/)
+
 
 ## 🚀 Live Demo
 
