@@ -26,7 +26,6 @@ This is my **old personal portfolio**, built using **React** and **Tailwind CSS*
 - React
 - Tailwind CSS
 - JavaScript
-- Vite (if applicable)
 - Chatbot API (or custom logic)
 ---
 
@@ -45,7 +44,7 @@ This is my **old personal portfolio**, built using **React** and **Tailwind CSS*
 
 - npm start
 
-## Visit http://localhost:3000 to see it in action.
+### Visit http://localhost:3000 to see it in action.
 
 ## Build for Production
 
